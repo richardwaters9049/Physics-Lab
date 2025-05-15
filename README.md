@@ -1,1 +1,1 @@
-# Physics-Lab
+# Physics Lab
